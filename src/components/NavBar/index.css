@@ -1,0 +1,15 @@
+/* Write your code here. */
+.navBar-Container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #9796f0;
+  color: #ffffff;
+}
+.navitem {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}

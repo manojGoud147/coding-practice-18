@@ -1,0 +1,7 @@
+/* Write your code here. */
+.emoji-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
